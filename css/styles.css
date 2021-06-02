@@ -1,0 +1,28 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+
+/* Add a gray background color with some padding */
+body {
+  font-family: Arial;
+  background: #f1f1f1;
+}
+
+
+
+
+/* Footer */
+.footer {
+  padding: 10px 10px 100px 10px;
+  text-align: center;
+  background: #333;
+  margin-top: 20px;
+}
+.footer_text {
+  color: #fff;
+}
+
+
